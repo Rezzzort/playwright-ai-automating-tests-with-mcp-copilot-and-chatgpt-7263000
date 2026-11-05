@@ -23,4 +23,4 @@ test-results/
 /blob-report/
 /playwright/.cache/
 /playwright/.auth/
-.playwright-mcpn
+.playwright-mcp/
